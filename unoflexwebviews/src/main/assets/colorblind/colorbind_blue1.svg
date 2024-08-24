@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate"
+  viewBox="0 0 512 512" width="512pt" height="512pt" class="icon">
+  <style>
+    @media (prefers-color-scheme: light) {
+      .icon {
+        fill: #0f1416;
+      }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .icon {
+        fill: #dbe4e7;
+      }
+    }
+  </style>
+  <defs>
+    <clipPath id="_clipPath_KPRfn7s1Q8g9DP6JWasrMvxkuo2A6ZYg">
+      <rect width="512" height="512" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#_clipPath_KPRfn7s1Q8g9DP6JWasrMvxkuo2A6ZYg)">
+    <path d=" M 297.48 72.014 L 157.397 -7.865 L 157.397 151.894 L 297.48 72.014 Z " />
+    <path d=" M 297.48 245.03 L 157.397 165.151 L 157.397 324.91 L 297.48 245.03 Z " />
+    <path d=" M 297.48 424.255 L 157.397 344.376 L 157.397 504.135 L 297.48 424.255 Z " />
+  </g>
+</svg>

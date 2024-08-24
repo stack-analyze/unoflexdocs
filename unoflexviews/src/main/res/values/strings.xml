@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">uno flex xml</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="rules">Reglas</string>
+    <string name="counter">Contador</string>
+    <string name="colorblind">Daltonicos</string>
+    <string name="label">Selecione el num. de jugadores</string>
+</resources>

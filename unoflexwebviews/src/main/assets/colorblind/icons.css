@@ -1,0 +1,11 @@
+@media (prefers-color-scheme: light) {
+.icon {
+    fill: #0f1416;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+.icon {
+        fill: #dbe4e7;
+    }
+}

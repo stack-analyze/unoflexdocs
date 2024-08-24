@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  style="isolation:isolate" viewBox="0 0 512 512" width="512pt" height="512pt" class="icon">
+  <style>
+    @media (prefers-color-scheme: light) {
+      .icon {
+        fill: #0f1416;
+      }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .icon {
+        fill: #dbe4e7;
+      }
+    }
+  </style>
+  <defs>
+    <clipPath id="_clipPath_fI4LbGnQQfJ8rzjAauMdrbjqsnLtcpzl">
+      <rect width="512" height="512" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#_clipPath_fI4LbGnQQfJ8rzjAauMdrbjqsnLtcpzl)">
+    <path
+      d=" M 258.658 476.263 C 252.127 476.263 246.12 472.791 242.855 467.128 L 19.42 80.137 C 16.178 74.496 16.178 67.554 19.42 61.89 C 22.686 56.227 28.715 52.756 35.246 52.756 L 482.092 52.756 C 488.601 52.756 494.629 56.227 497.895 61.89 C 501.161 67.554 501.161 74.496 497.895 80.137 L 274.461 467.128 C 271.195 472.791 265.189 476.263 258.658 476.263 Z "
+      fill-rule="evenodd" />
+  </g>
+</svg>

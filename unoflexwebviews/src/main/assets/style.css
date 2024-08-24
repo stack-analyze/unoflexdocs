@@ -1,0 +1,38 @@
+.v-avatar {
+    border-radius: 0;
+}
+
+.v-avatar.v-avatar--size-default {
+    height: 64px;
+    aspect-ratio: 9/ 16;
+}
+
+.v-list {
+    max-height: 85vh;
+}
+
+.v-list-item__content-counter {
+    display: flex;
+    justify-content: space-between;
+}
+
+.v-row {
+    width: 100%;
+}
+
+.v-list-item--one-line .v-list-item-subtitle {
+    -webkit-line-clamp: unset;
+    white-space: pre-wrap;
+}
+
+.colorblind, .players {
+    overflow: auto;
+}
+
+.players {
+    height: 75vh;
+}
+
+.colorblind {
+    height: 85vh;
+}

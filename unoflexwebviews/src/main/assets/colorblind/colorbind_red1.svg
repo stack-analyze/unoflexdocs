@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 512 512" width="512pt" height="512pt" class="icon">
+  <style>
+    @media (prefers-color-scheme: light) {
+      .icon {
+        fill: #0f1416;
+      }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .icon {
+        fill: #dbe4e7;
+      }
+    }
+  </style>
+  <defs>
+    <clipPath id="_clipPath_HmjZ3JAKlUWQQ4D0bwE0wU4zyy7Vp2C4">
+      <rect width="512" height="512" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#_clipPath_HmjZ3JAKlUWQQ4D0bwE0wU4zyy7Vp2C4)">
+    <path d=" M 306.46 61.388 L 203.069 1.574 L 203.069 121.077 L 306.46 61.388 Z " />
+    <path d=" M 306.46 190.674 L 203.069 130.984 L 203.069 250.363 L 306.46 190.674 Z " />
+    <path d=" M 306.46 324.599 L 203.069 264.909 L 203.069 384.288 L 306.46 324.599 Z " />
+    <path d=" M 306.46 453.884 L 203.069 394.194 L 203.069 513.574 L 306.46 453.884 Z " />
+  </g>
+</svg>

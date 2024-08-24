@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/flex_navigation"
+    app:startDestination="@id/rulesFragment">
+    <fragment
+        android:id="@+id/rulesFragment"
+        android:name="com.stackanlyze.unoflexviews.fragments.rules.RulesFragment"
+        android:label="fragment_rules"
+        tools:layout="@layout/fragment_rules" />
+    <fragment
+        android:id="@+id/counterFragment"
+        android:name="com.stackanlyze.unoflexviews.fragments.counter.CounterFragment"
+        android:label="fragment_counter"
+        tools:layout="@layout/fragment_counter" />
+    <fragment
+        android:id="@+id/colorblindFragment"
+        android:name="com.stackanlyze.unoflexviews.fragments.colorblind.ColorblindFragment"
+        android:label="fragment_colorblind"
+        tools:layout="@layout/fragment_colorblind" />
+</navigation>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+  style="isolation:isolate" viewBox="0 0 512 512" width="512pt" height="512pt" class="icon">
+  <style>
+    @media (prefers-color-scheme: light) {
+      .icon {
+        fill: #0f1416;
+      }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .icon {
+        fill: #dbe4e7;
+      }
+    }
+  </style>
+  <defs>
+    <clipPath id="_clipPath_jEkITb6YmPyfRjCFTIXWZgOeQmFIFajk">
+      <rect width="512" height="512" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#_clipPath_jEkITb6YmPyfRjCFTIXWZgOeQmFIFajk)">
+    <path
+      d=" M 270.99 504.631 C 262.868 504.631 256.308 498.071 256.308 489.948 C 256.308 373.084 161.22 277.996 44.356 277.996 C 36.233 277.996 29.673 271.416 29.673 263.314 C 29.673 255.191 36.233 248.631 44.356 248.631 C 161.22 248.631 256.308 153.544 256.308 36.658 C 256.308 28.556 262.868 21.976 270.99 21.976 C 279.113 21.976 285.673 28.556 285.673 36.658 C 285.673 153.544 380.761 248.631 497.625 248.631 C 505.748 248.631 512.308 255.191 512.308 263.314 C 512.308 271.416 505.748 277.996 497.625 277.996 C 380.761 277.996 285.673 373.084 285.673 489.948 C 285.673 498.071 279.113 504.631 270.99 504.631 Z " />
+  </g>
+</svg>
